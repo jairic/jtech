@@ -1,0 +1,163 @@
+/**removes empty space from head of pages**/
+head{
+	margin:0px 0px 0px 0px;
+}
+
+
+/**left most border thing**/
+/**#d1{
+	/**background-color:#D4B270;**/ 
+	height:100%;
+	float:left;
+	width:13%;
+}**/
+
+
+/**right most border thing**/
+#d2{
+	/**background-color:#D4B270;**/
+	height:100%;
+	float:right;
+	width:13%;
+}
+
+
+/**horizontal nav bar top**/
+#d3{
+	min-height:40px;
+	background-color:#D9D4B2;
+	height:4%;
+	width:100%;
+	margin-left:0%;
+	font-family:Helvetica, sans-serif;
+}
+
+
+/** home button on nav bar**/
+#home{
+	color:orange;
+	height:3%;
+	margin-left:1%;
+	margin-top:90%;
+	font-family:Helvetica, sans-serif;
+}
+
+
+/**blog button on nav bar**/
+#blog{
+	color:orange;
+	height:3%;
+	margin-left:3%;
+	margin-top:90%;
+	font-family:Helvetica, sans-serif;
+}
+
+
+/**Home page blurb**/
+#sp{
+	margin-top:0%;
+	text-indent:3%;
+	font-size:2.0em;
+	font-family:Helvetica, sans-serif;
+	color:black;
+}
+
+
+/**greeting on main blog page**/
+#bl{
+	text-align:center;
+	font-family:Helvetica, sans-serif;
+}
+
+
+/**Link to first blog post on main blog page**/
+#fp{
+	text-align:center;
+	font-family:Helvetica, sans-serif;
+	
+}
+
+
+/**First blog entry header**/
+#bp{
+	text-align:center;
+	font-family:Helvetica, sans-serif;
+}
+
+
+/**text of first blog post**/
+#p1{
+	text-align:left;
+	text-indent:2%;
+	font-family:Helvetica, sans-serif;
+}
+
+
+/**trying different button for home button on nav bar**/
+.button {
+    background-color:#00A2E8;
+    border: none;
+    color: white;
+    padding: 0.5% 0.5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin: 0.25% 0.1 0% 0.5%;
+    cursor: pointer;
+}
+
+
+/**logo**/
+#logo{
+	width:13%;
+	float:left;
+}
+
+/**homepage footer**/
+footer{
+	width:100%
+	background-color:gray;
+	height:3%;
+	min-height:20px;
+	margin-top:57%;
+	color:gray;
+	margin-left:13%
+	float:left;
+}
+
+/**blog footer**/
+#f2{
+	margin-top:45%;
+	color:gray;
+}
+
+/**blog post 1 footer**/
+#f3{
+	margin-top:43%;
+	color:gray;
+}
+
+/**body mods
+body{
+	background-color:#D4B270;
+}**/
+
+/**template mid**/
+#mid{
+	height:100%;
+	background-color:white;
+	width:74%;
+	margin-left:13%;
+	margin-top:0%;
+	font-family:Helvetica, sans-serif 	
+}
+
+/**blog page template mid**/
+#mid-blog{
+	background-color:white;
+	height:100%;
+	width:74%;
+	margin-left:13%;
+	margin-top:-0.83%;
+}
