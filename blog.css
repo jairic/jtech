@@ -1,0 +1,20 @@
+/**new logo on index page test**/
+#newlogo{
+	width:50%;
+	margin-left:25%;
+	min-width:10%;
+}
+
+/**navigation bar**/
+.navbar{
+	width:50%;
+	margin-left:25%;
+	min-width:10%;
+}
+
+/**links on nav bar class**/
+.links{
+	text-decoration:none;
+	color:blue;
+	margin-right:1%
+}
