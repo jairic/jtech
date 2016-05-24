@@ -16,5 +16,17 @@
 .links{
 	text-decoration:none;
 	color:blue;
-	margin-right:1%
+}
+
+
+/**buttons on nav bar**/
+button{
+	background-color:white;
+	border-color:blue;
+	margin-right:2.75%;
+}
+
+/**footer**/
+footer{
+	margin-left:25%;
 }
