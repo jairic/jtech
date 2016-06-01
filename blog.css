@@ -1,8 +1,19 @@
+/**Table for body content**/
+table{
+	margin-left:25%;
+	border:solid;
+	border-color:#00A2E8;
+	border-radius:80px;
+	border-width:10px;
+	margin-top:2%;
+	width:50%;
+}
+
 /**new logo on index page test**/
 #newlogo{
 	width:50%;
 	margin-left:25%;
-	min-width:10%;
+	min-width:10%; 	
 }
 
 
@@ -68,8 +79,18 @@
 }
 
 
+/**whats new box header**/
+#newh3{
+	color:#dde6ea;  
+	background-color:#00A2E8;
+	margin-top:0%;
+	padding-left:28%;
+	padding-right:30%;
+	display:inline-block;
+}
+
 /**homebox**/
-#homebox{
+//*#homebox{
 	width:49%;
 	margin-left:25.5%;
 	margin-top:1.5%;
@@ -77,20 +98,13 @@
 	border-color:#00A2E8;
 	border-radius:15%
 }
-
-
-/**whats new box header**/
-#newh3{
-	color:white;
-	background-color:#00A2E8;
-	margin-top:0%;
-	padding-left:28%;
-}
+**/
 
 
 /**wndate**/
 #wndate{
 	margin-left:33%;
+	font-weight:bold;
 }
 
 
@@ -101,24 +115,39 @@
 	border-radius:5%;
 	width:25%;
 	margin-left:10%;
+	min-width:115px;
+	overflow-y:scroll;
+	overflow:hidden;
 }
 
 
 /**upcoming**/
 #upcoming{
+	min-width:115px;
 	border:solid;
 	border-color:#00A2E8;
 	border-radius:5%;
 	width:25%;
 	margin-top:5%;
 	margin-left:10%;
+	overflow-y:scroll;
+	overflow:hidden;
 }
 
 
 /**upcoming h3**/
 #upcomingh3{
-	color:white;
+	color:#dde6ea;
 	background-color:#00A2E8;
 	margin-top:0%;
 	padding-left:28%;
+	padding-right:37%;
+	display:inline-block;
 }
+
+
+/**minimum body width**/
+body{
+	min-width:480px;
+}
+
