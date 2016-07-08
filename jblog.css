@@ -1,0 +1,148 @@
+
+
+/**new logo on index page test**/
+#newlogo{
+	width:50%;
+	margin-left:25%;
+	min-width:10%; 	
+}
+
+
+/**positiong of 'home' link on nav bar**/
+#homelink{
+	margin-left:7.5%;
+	margin-bottom:90%;
+}
+/**navigation bar**/
+.navbar{
+	width:50%;
+	margin-left:0%;
+	min-width:10%;
+	padding-top:0.5%;
+}
+
+
+/**navbarbg**/
+#navbarbg{
+	background-color:#00A2E8;
+	width:100%;
+	padding-bottom:0.5%;
+        display: flex;
+        justify-content: space-around;
+}
+
+
+/**links on nav bar class**/
+.links{
+	text-decoration:none;
+	color:#dde6ea;
+	font-size:125%;
+	font-family:verdana;
+	margin-right:3%;
+}
+
+/**fav ico mods**/
+#fav{
+	background-color:#00A2E8;
+}
+
+
+#footer {
+   position:absolute;
+   bottom:0;
+   margin-left:25%;
+   width:50%;
+   height:3%;   /* Height of the footer */
+   /* background:#00A2E8;
+   border: solid #00A2E8;
+   border-radius:15%; */
+}
+
+
+/**sidebarimageright**/
+#sbright{
+	float:right;
+	width:25%;
+}
+
+
+/**sidebarleftimage**/
+#sbleft{
+	float:left;
+	width:25%;
+}
+
+
+/**whats new box header**/
+#newh3{
+	color:#dde6ea;  
+	background-color:#00A2E8;
+	margin-top:0%;
+	padding-left:28%;
+	padding-right:44.815%;
+	display:inline-block;
+}
+
+/**homebox**/
+//*#homebox{
+	width:49%;
+	margin-left:25.5%;
+	margin-top:1.5%;
+	border:solid;
+	border-color:#00A2E8;
+	border-radius:15%
+}
+**/
+
+
+/**wndate**/
+#wndate{
+	margin-left:33%;
+	font-weight:bold;
+}
+
+
+/**new content box**/
+#whatsnew{
+	border:solid;
+	border-color:#00A2E8;
+	border-radius:5%;
+	width:25%;
+	margin-left:25%;
+	min-width:115px;
+	overflow-y:scroll;
+	overflow:hidden;
+	margin-top:1%;
+}
+
+
+/**upcoming**/
+#upcoming{
+	min-width:115px;
+	border:solid;
+	border-color:#00A2E8;
+	border-radius:5%;
+	width:25%;
+	margin-top:5%;
+	margin-left:25%;
+	overflow-y:scroll;
+	overflow:hidden;
+}
+
+
+/**upcoming h3**/
+#upcomingh3{
+	color:#dde6ea;
+	background-color:#00A2E8;
+	margin-top:0%;
+	padding-left:28%;
+	padding-right:50%;
+	display:inline-block;
+}
+
+
+/**minimum body width**/
+body{
+	min-width:480px;
+}
+
