@@ -153,3 +153,9 @@ body{
 	min-width:480px;
 }
 
+/**blog article**/
+#a1{
+	margin-left:40%;
+	margin-top:2%;
+	margin-right: 25%;
+}
